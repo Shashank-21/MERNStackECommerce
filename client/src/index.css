@@ -1,0 +1,7 @@
+.active{
+  background-color: rgb(202, 227, 255);
+  font-weight: bold;
+}
+.pointer {
+  cursor:pointer;
+}
